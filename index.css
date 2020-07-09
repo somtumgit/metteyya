@@ -1,0 +1,28 @@
+.bd-red {
+    border: 1px solid red;
+}
+
+
+.white-popup {
+    position: relative;
+    background: #FFF;
+    padding: 20px;
+    width: auto;
+    max-width: 500px;
+    margin: 20px auto;
+}
+#audio-popup {
+    width: 100%;
+    background: transparent!important;
+}
+#audio-popup .audiojs {
+    width: 100%!important;
+}
+.mfp-bg {
+    background: url("images/metteyya.jpg") center center no-repeat;
+    background-size: cover;
+    filter: grayscale(90%) opacity(30%);
+}
+.mfp-close {
+    color: #000000;
+}
