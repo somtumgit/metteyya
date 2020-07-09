@@ -20,7 +20,7 @@
         <div id="my-nav" class="collapse navbar-collapse ">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
-                    <a class="nav-link text-white" href="index.html"><i class="fas fa-home"></i> เสียงธรรม</a>
+                    <a class="nav-link text-white" href="index.php"><i class="fas fa-home"></i> เสียงธรรม</a>
                 </li>
             </ul>
         </div>
@@ -39,7 +39,7 @@
       <div class="media">
         <img src="images/metteyya_thumb.jpg" class="img-thumbnail mr-3" width="120" alt="...">
         <div class="media-body">
-          <a href="1to5.html" target="_blank" class="text-dark text-decoration-none">
+          <a href="1to5.php" target="_blank" class="text-dark text-decoration-none">
             <h5 class="mt-0 font-weight-bold ">กฎระเบียบ เล่ม ๑ - ๕</h5>
           </a>
           ลูกพื่เบื้องบน ลูกพื่เบื้องล่าง เซ็นให้ไปพูด ไปทำ ไปใช้ โดยไม่มีการหวงห้าม
