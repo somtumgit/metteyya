@@ -13,7 +13,7 @@
 <body>
 <div class="container">
     <nav class="navbar navbar-expand-md " style="color:#fff;background-color: #B56881;">
-        <a href="index.html" class="navbar-brand text-white">Metteyya</a>
+        <a href="index.php" class="navbar-brand text-white">Metteyya</a>
         <button class="navbar-toggler" data-target="#my-nav" data-toggle="collapse" aria-controls="my-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
