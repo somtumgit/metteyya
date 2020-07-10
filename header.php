@@ -15,6 +15,6 @@
 </div>
 <div class="container">
     <img src="images/metteyya01.jpg" class="img-fluid" alt="metteyya_img">
-    <div>เสียงบรรยายจาก....คุณ...</div>
+    <div>เสียงบรรยายจาก...ช่าวโลกชาวธรรม..</div>
 </div>
 <hr>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Metteyya : 1 - 5</title>
+    <title>Metteyya : 6 - 10</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/all.css">
     <link rel="stylesheet" href="css/fontawesome.css">
@@ -55,7 +55,7 @@
                 <tbody class="text-center">
                     <tr>
                         <td> ๑</td>
-                        <td class="text-left" style="width: 300px;">กฎระเบียบคำสั่งสอน เล่ม ๑</td>
+                        <td class="text-left" style="width: 300px;">กฎระเบียบคำสั่งสอน เล่ม ๖</td>
                         <td class="">
                             <!-- <a href="phun/01.mp3" target="_blank"><img src="images/icon_music32.gif" width="32" height="32" border="0" alt="ฟัง"></a> -->
                             <a href="#audio-popup" data-src="audio/bensound-ukulele.mp3" class="open-popup-audio"><img src="images/icon_music32.gif" width="32" height="32" border="0" alt="ฟัง"></a>
@@ -63,22 +63,22 @@
                     </tr>
                     <tr>
                         <td> ๒</td>
-                        <td class="text-left" style="width: 300px;">กฎระเบียบคำสั่งสอน เล่ม ๒</td>
+                        <td class="text-left" style="width: 300px;">กฎระเบียบคำสั่งสอน เล่ม ๗</td>
                         <td><a href="#audio-popup" data-src="audio/bensound-summer.mp3" class="open-popup-audio"><img src="images/icon_music32.gif" width="32" height="32" border="0" alt="ฟัง"></a></td>
                     </tr>
                     <tr>
                         <td> ๓</td>
-                        <td class="text-left" style="width: 300px;">กฎระเบียบคำสั่งสอน เล่ม ๓</td>
+                        <td class="text-left" style="width: 300px;">กฎระเบียบคำสั่งสอน เล่ม ๘</td>
                         <td><a href="#audio-popup" data-src="audio/bensound-ukulele.mp3" class="open-popup-audio"><img src="images/icon_music32.gif" width="32" height="32" border="0" alt="ฟัง"></a></td>
                     </tr>
                     <tr>
                         <td> ๔</td>
-                        <td class="text-left" style="width: 300px;">กฎระเบียบคำสั่งสอน เล่ม ๔</td>
+                        <td class="text-left" style="width: 300px;">กฎระเบียบคำสั่งสอน เล่ม ๙</td>
                         <td><a href="#audio-popup" data-src="audio/bensound-summer.mp3" class="open-popup-audio"><img src="images/icon_music32.gif" width="32" height="32" border="0" alt="ฟัง"></a></td>
                     </tr>
                     <tr>
                         <td> ๕</td>
-                        <td class="text-left" style="width: 300px;">กฎระเบียบคำสั่งสอน เล่ม ๕</td>
+                        <td class="text-left" style="width: 300px;">กฎระเบียบคำสั่งสอน เล่ม ๑๐</td>
                         <td><a href="#audio-popup" data-src="audio/bensound-ukulele.mp3" class="open-popup-audio"><img src="images/icon_music32.gif" width="32" height="32" border="0" alt="ฟัง"></a></td>
                     </tr>
 
