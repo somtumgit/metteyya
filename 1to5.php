@@ -10,28 +10,20 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
     <link rel="stylesheet" href="index.css">
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172149001-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-172149001-1');
+</script>
+
 </head>
 <body>
-<div class="container">
-    <nav class="navbar navbar-expand-md " style="color:#fff;background-color: #B56881;">
-        <a href="index.php" class="navbar-brand text-white">Metteyya</a>
-        <button class="navbar-toggler" data-target="#my-nav" data-toggle="collapse" aria-controls="my-nav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div id="my-nav" class="collapse navbar-collapse ">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item active">
-                    <a class="nav-link text-white" href="index.php"><i class="fas fa-home"></i> เสียงธรรม</a>
-                </li>
-            </ul>
-        </div>
-    </nav>
-</div>
-<div class="container">
-    <img src="images/metteyya01.jpg" class="img-fluid" alt="metteyya_img">
-    <div>เสียงบรรยายจาก....คุณ...</div>
-</div>
-<hr>
+
+<?php include("header.php"); ?>
 
 
 <div class="container">
@@ -86,23 +78,12 @@
     </div>
     
     <div id="audio-popup" class="white-popup mfp-hide">
-        <audio src="audio/bensound-summer.mp3" preload="auto"/>
+        <audio src="audio/bensound-summer.mp3" preload="auto"></audio>
     </div>
 </div>
 
-<div class="footer my-5">
-    <div class="row justify-content-center">
-      
-        <img src="https://static.wixstatic.com/media/a94972_dea37de2e61244afa3671d015b67b571~mv2.jpg/v1/fill/w_94,h_94,al_c,q_80,usm_0.66_1.00_0.01/168.webp" alt="line" style="width: 75px;height: 70spx;">
-        <img src="https://static.wixstatic.com/media/a94972_e9a8792e74e947879ed495973a20bfb6~mv2.png/v1/fill/w_194,h_144,al_c,q_85,usm_0.66_1.00_0.01/a94972_e9a8792e74e947879ed495973a20bfb6~mv2.webp" alt="lline" style="width: 105px;height: 75px;">
-      
-    </div>
-  
-    <div class="text-center text-muted my-2">
-      <span style="">(C) mitdesign พ.ศ.๒๕๖๐-พ.ศ.๒๕๖๓</span>
-    </div>
-  
-</div>
+<?php include("footer.php"); ?>
+
 
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
