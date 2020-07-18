@@ -51,6 +51,6 @@
     <img src="images/metteyya01.jpg" class="img-fluid" alt="metteyya_img">
     <div class="float-left">เสียงบรรยายจาก...ช่าวโลกชาวธรรม..</div>
     <div class="fb-like float-right" data-href="https://metteyya.herokuapp.com/" data-width="" data-layout="button" data-action="like" data-size="small" data-share="true"></div>
-    <div class="clearfix"></div>
+    <div class="clearfix" style="contain:'';display:block;clear:both;width:100%;"></div>
 </div>
 <hr>
