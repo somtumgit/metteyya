@@ -1,3 +1,7 @@
+<div class="container">
+  <div class="fb-comments my5" data-href="https://metteyya.herokuapp.com/" data-numposts="5" data-width=""></div>
+</div>
+<hr>
 <div class="footer my-5">
   <div class="row justify-content-center">
     
