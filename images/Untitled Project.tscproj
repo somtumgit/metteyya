@@ -207,26 +207,10 @@
                       "ident" : "พระศรีอริยเมตไตรย"
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -1.31410256403134,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 74.5000000000261,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.401282051281989,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.401282051281989,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : -1.31410256403134,
+                      "translation1" : 74.5000000000261,
+                      "scale0" : 0.401282051281989,
+                      "scale1" : 0.401282051281989
                     },
                     "effects" : [
 
@@ -285,7 +269,7 @@
         "videoHidden" : false,
         "metadata" : {
           "IsLocked" : "False",
-          "WinTrackHeight" : "56"
+          "WinTrackHeight" : "335.500000000001"
         }
       }
     ],
